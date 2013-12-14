@@ -3,7 +3,7 @@
     <groupId>org.kevoree.maventools</groupId>
     <artifactId>org.kevoree.maventools.root</artifactId>
     <packaging>pom</packaging>
-    <version>1-SNAPSHOT</version>
+    <version>1</version>
     <name>Kevoree :: MavenTools :: Root</name>
     <url>https://github.com/dukeboard/maven-settings-ci</url>
     <description>Kevoree MavenTools</description>

@@ -2,8 +2,8 @@
 
     <modelVersion>4.0.0</modelVersion>
     <name>Kevoree :: Maven :: Settings CI</name>
-    <artifactId>org.kevoree.maven-settings-ci</artifactId>
-    <groupId>org.kevoree.maven</groupId>
+    <artifactId>org.kevoree.maven.settings.ci</artifactId>
+    <groupId>org.kevoree.tools</groupId>
     <packaging>maven-plugin</packaging>
     <version>2-SNAPSHOT</version>
 

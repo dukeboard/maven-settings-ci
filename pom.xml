@@ -7,6 +7,11 @@
     <name>Kevoree :: MavenTools :: Root</name>
     <url>https://github.com/dukeboard/maven-settings-ci</url>
     <description>Kevoree MavenTools</description>
+	
+    <organization>
+        <name>Kevoree Project</name>
+        <url>http://kevoree.org</url>
+    </organization>
 
     <licenses>
         <license>
